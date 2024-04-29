@@ -16,3 +16,5 @@ This project is dedicated to implementing the K-means clustering algorithm from 
 - NumPy for numerical operations
 - Matplotlib for data visualization
 - Jupyter Notebook for interactive development
+
+**Note**: This code and repository are for showcasing my projects and are not intended for external use. 
