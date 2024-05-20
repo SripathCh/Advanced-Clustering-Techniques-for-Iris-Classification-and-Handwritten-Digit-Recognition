@@ -1,4 +1,4 @@
-# Iris K-Means Clustering
+# Advanced Clustering Techniques for Iris Classification and Handwritten Digit Recognition
 
 ## Project Overview
 This project is dedicated to implementing the K-means clustering algorithm from scratch. The implementation is tested on the well-known Iris dataset in part one, and it's further extended to cluster processed vector data of 10,000 images of handwritten digits (from zero to nine) in part two.
